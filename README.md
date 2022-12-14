@@ -33,7 +33,7 @@ Projeto focado em desenvolver um layout alternativo do 0 de um projeto feito dur
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]([https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01?t=trEld6uq781lbT4Z-0.](https://www.figma.com/file/n2NJUvmWLdnAIDcs5sOelt/Projeto01-Extra-(Copy)?node-id=0%3A1&t=jzUDHyNro57cuJwJ-0)) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK] (https://www.figma.com/file/n2NJUvmWLdnAIDcs5sOelt/Projeto01-Extra-(Copy)?node-id=0%3A1&t=jzUDHyNro57cuJwJ-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
